@@ -1,0 +1,6 @@
+def calc_vat(inputprice, vatrate):
+    """calculate the varying rate vatrate
+    on a net price"""
+    answer = inputprice * (vatrate + 1)
+    return answer
+
