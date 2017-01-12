@@ -1,0 +1,46 @@
+Day, Operator,Lateness (mins),Incidents
+01-Jan-17,South West Trains,291,57
+01-Jan-17,Southeastern,696,82
+01-Jan-17,Southern,1901,167
+02-Jan-17,South West Trains,791,167
+02-Jan-17,Southeastern,732,94
+02-Jan-17,Southern,3552,329
+26-Dec-16,Southeastern,19,2
+26-Dec-16,Southern,14,2
+27-Dec-16,South West Trains,1163,142
+27-Dec-16,Southeastern,1759,215
+27-Dec-16,Southern,3473,344
+28-Dec-16,South West Trains,1791,192
+28-Dec-16,Southeastern,1376,194
+29-Dec-16,South West Trains,131,32
+29-Dec-16,Southeastern,292,53
+29-Dec-16,Southern,389,61
+30-Dec-16,South West Trains,1201,154
+30-Dec-16,Southeastern,2882,230
+30-Dec-16,Southern,2942,267
+31-Dec-16,South West Trains,365,67
+31-Dec-16,Southeastern,287,39
+03-Jan-17,Southern,3092,352
+03-Jan-17,South West Trains,1072,174
+03-Jan-17,Southeastern,1946,273
+04-Jan-17,Southern,3307,344
+04-Jan-17,Southeastern,2802,362
+04-Jan-17,South West Trains,1154,167
+05-Jan-17,Southeastern,1261,198
+05-Jan-17,South West Trains,1710,239
+06-Jan-17,Southern,NA,109
+06-Jan-17,Southeastern,NA,58
+06-Jan-17,South West Trains,NA,49
+07-Jan-17,Southern,2268,254
+07-Jan-17,Southeastern,708,99
+07-Jan-17,South West Trains,471,72
+08-Jan-17,Southeastern,452,66
+08-Jan-17,South West Trains,270,61
+09-Jan-17,Southern,2891,362
+09-Jan-17,Southeastern,1847,285
+09-Jan-17,South West Trains,1871,250
+10-Jan-17,Southern,125,15
+10-Jan-17,Southeastern,1053,170
+10-Jan-17,Southern,23,6
+10-Jan-17,Southeastern,850,154
+10-Jan-17,South West Trains,1761,202
